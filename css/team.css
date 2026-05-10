@@ -23,3 +23,13 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.team-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 72px;
+  padding: 0px 15px;
+  width: 1158px;
+  height: 492px;
+  max-width: 1158px;
+}

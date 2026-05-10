@@ -1,7 +1,15 @@
 .hero {
   background-color: #2e2f42;
 }
-
+.hero .container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 0;
+  margin-top: 72px;
+  padding: 188px;
+}
 .hero-btn {
   background-color: #4d5ae5;
   color: #ffffff;
