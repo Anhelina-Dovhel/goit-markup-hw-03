@@ -37,3 +37,8 @@ a {
 .color-accent {
   color: #4d5ae5;
 }
+.container {
+  max-width: 1188px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
